@@ -1,4 +1,3 @@
-
 # Fall 2025 - Version Control Essentials
 
 This file is for students taking the class in Fall 2025.
@@ -12,4 +11,6 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 [Ryan Appel](https://github.com/rdappel) - Instructor, nerd, loves animals, and coffee.
 
 ## Students
+
+[Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
 
